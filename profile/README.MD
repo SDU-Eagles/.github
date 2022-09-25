@@ -6,4 +6,4 @@ SDU Eagles is a student team at University of Southern Denmark that desigens fix
 
 ## participated in the following competitions
 
-* 2022 new flying competition
+* [2022 new flying competition](https://www.newflyingcompetition.com/) ( [code](https://github.com/SDU-Eagles/Vision2022) )
